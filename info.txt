@@ -1,0 +1,5 @@
+git init - to intialize folder with  git
+git status - to track file
+git add . - add files from working to staging 
+git diff - difference working and staging
+git commit -m "first commit" -- taking from staging and save on local repo
