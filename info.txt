@@ -3,3 +3,11 @@ git status - to track file
 git add . - add files from working to staging 
 git diff - difference working and staging
 git commit -m "first commit" -- taking from staging and save on local repo
+git branch -M main - create a branch  (main)
+git remote add origin https://github.com/Minskoleopc/z11.git - only once
+(connect local to remote repo)
+git push -u origin main - pushes code from local to remote repo
+git clone https://github.com/Minskoleopc/z11.git
+
+
+// set2
