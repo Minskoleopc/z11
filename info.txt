@@ -15,5 +15,7 @@ git log --- total number of commits and status (HEAD)
 git push -u origin main
 git pull -u origin main  ---- changes from remote repo to local repo
 git show HEAD
-
+git checkout HEAD day1.java
+git reset HEAD day1.java
+git reset 4998a0  ----(7commitKey)
 
