@@ -11,3 +11,9 @@ git clone https://github.com/Minskoleopc/z11.git
 
 
 // set2
+git log --- total number of commits and status (HEAD)
+git push -u origin main
+git pull -u origin main  ---- changes from remote repo to local repo
+git show HEAD
+
+
